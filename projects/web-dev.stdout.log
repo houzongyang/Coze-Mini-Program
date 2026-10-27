@@ -1,0 +1,15 @@
+
+> coze-mini-program@1.0.0 dev:web D:\ASUS\Documents\jiedan\20260720\projects\projects
+> taro build --type h5 --watch
+
+👽 Taro v4.1.9
+
+[dotenv@17.2.3] injecting env (2) from .env.local -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.56.1:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.252.1:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.110.1:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.22:[1m5000[22m/[39m
+[2m23:12:27[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mweapp-qrcode, qrcode[32m[39m
+[2m23:12:27[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+ ELIFECYCLE  Command failed with exit code 4294967295.

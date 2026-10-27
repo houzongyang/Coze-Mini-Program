@@ -1,28 +1,45 @@
 {
-  "miniprogramRoot": "./projects/dist/",
+  "miniprogramRoot": "dist/",
   "projectname": "coze-mini-program",
-  "description": "小喵快印",
+  "description": "test",
+  "appid": "wx21af8fcb3ac063de",
   "setting": {
-    "es6": true,
-    "postcss": true,
-    "minified": true,
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false,
+    "showDevelopmentVersion": false,
+    "compileWorklet": false,
     "uglifyFileName": false,
-    "enhance": true,
+    "uploadWithSourceMap": true,
+    "packNpmManually": false,
     "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "minifyWXML": true,
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "swc": false,
+    "disableSWC": true,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
-    },
-    "useCompilerPlugins": false,
-    "minifyWXML": true
+    }
   },
   "compileType": "miniprogram",
-  "simulatorPluginLibVersion": {},
   "packOptions": {
-    "ignore": [],
+    "ignore": [
+      {
+        "value": "./assets",
+        "type": "folder"
+      }
+    ],
     "include": []
   },
-  "appid": "wx21af8fcb3ac063de",
+  "simulatorPluginLibVersion": {},
   "editorSetting": {}
 }

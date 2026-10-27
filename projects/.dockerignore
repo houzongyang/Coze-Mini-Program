@@ -1,0 +1,13 @@
+.git
+.pnpm-store
+node_modules
+server/node_modules
+dist
+dist-*
+server/dist
+server/data
+.env
+.env.*
+*.log
+coverage
+*.sqlite

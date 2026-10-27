@@ -1,0 +1,146 @@
+
+> coze-mini-program@1.0.0 dev:web D:\ASUS\Documents\jiedan\20260720\projects\projects
+> taro build --type h5 --watch
+
+👽 Taro v4.1.9
+
+[dotenv@17.2.3] injecting env (2) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.56.1:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.252.1:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.110.1:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.22:[1m5000[22m/[39m
+[2m23:16:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/h5-preview/index.tsx, /app.css[22m
+[2m23:20:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css, /pages/h5-preview/index.css[22m
+[2m00:39:47[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m00:39:48[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m00:40:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m00:40:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m00:41:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m00:41:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m00:41:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m00:41:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m01:19:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m01:29:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m01:29:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css, /pages/home/index.css[22m
+[2m01:34:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m12:21:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/privacy-dialog/index.tsx, /app.css[22m
+[2m12:22:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/privacy-dialog/index.tsx, /app.css[22m
+[2m12:45:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m12:45:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css[22m
+[2m12:45:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css, /pages/home/index.css[22m
+[2m17:21:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/src/documents/documents.service.ts[22m
+[2m17:21:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/src/documents/documents.controller.ts[22m
+[2m17:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.module.js[22m
+[2m17:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.module.d.ts[22m
+[2m17:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/main.d.ts[22m
+[2m17:24:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/src/documents/documents.service.ts[22m
+[2m17:24:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/src/documents/documents.controller.ts[22m
+[2m17:24:31[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.module.js[22m
+[2m17:24:31[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.module.d.ts[22m
+[2m17:24:31[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/main.d.ts[22m
+[2m17:25:53[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/src/documents/documents.controller.ts[22m
+[2m18:55:12[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/package.json[22m
+[2m18:55:12[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/src/main.ts[22m
+[2m18:55:14[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/main.js[22m
+[2m18:55:14[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/main.d.ts[22m
+[2m19:01:18[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.controller.d.ts[22m
+[2m19:01:18[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.controller.js[22m
+[2m19:01:18[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.module.d.ts[22m
+[2m19:01:18[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.service.d.ts[22m
+[2m19:01:18[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/dist/app.module.js[22m
+[2m19:11:21[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mD:/ASUS/Documents/jiedan/20260720/projects/projects/server/src/main.ts[22m
+[2m20:04:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/print-settings/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css, /pages/home/index.tsx, /pages/print-settings/index.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mlib/measure.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/portal.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/toast.tsx, /app.css, /presets/h5-error-boundary.tsx, /components/ui/badge.tsx, /components/ui/card.tsx, /components/ui/button.tsx, /components/ui/scroll-area.tsx, /components/ui/dialog.tsx, /components/ui/input.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css, /components/ui/dialog.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/presets/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/presets/index.tsx, /app.css, /presets/h5-error-boundary.tsx, /presets/h5-container.tsx, /presets/h5-navbar.tsx, /pages/home/index.tsx, /pages/print-settings/index.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/presets/h5-container.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/presets/h5-error-boundary.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/presets/h5-navbar.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/presets/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/presets/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/address/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/admin/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/gift-management/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/agent-management/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/admin-orders/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/admin-order-detail/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/gifts/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css, /pages/h5-preview/index.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/h5-preview/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/h5-preview/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/orders/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/orders/detail.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/merchant/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/merchant/index.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/price-table/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/print-settings/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/print-settings/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/profile/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/home/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/pages/home/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css, /pages/home/index.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/points/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/pay/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/agent-center/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/price-config/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpages/withdrawal-management/index.config.ts[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/privacy-dialog/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/qr-code-dialog/index.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/accordion.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/alert-dialog.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/alert.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/aspect-ratio.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/avatar.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/badge.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/breadcrumb.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/button-group.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/button.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/calendar.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/card.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/carousel.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/checkbox.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/code-block.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/collapsible.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/command.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/context-menu.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/dialog.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/drawer.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/dropdown-menu.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/field.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/hover-card.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/input-group.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/input-otp.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/input.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/label.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/menubar.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/navigation-menu.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/pagination.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/popover.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/portal.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/progress.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/radio-group.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/resizable.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/scroll-area.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/select.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/separator.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/sheet.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/skeleton.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/slider.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/sonner.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/switch.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/table.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/tabs.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/textarea.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/components/ui/toast.tsx, /app.css[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/toggle-group.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/toggle.tsx[22m
+[2m22:39:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mcomponents/ui/tooltip.tsx[22m
